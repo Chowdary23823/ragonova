@@ -16,7 +16,7 @@
       const submitBtn = thisForm.querySelector('button[type="submit"]');
 
       // Replace with your actual Web3Forms access key
-      const accessKey = "64fcefab-7246-4696-9212-e956daf91405";
+      const accessKey = "e58c71f0-25c9-41f9-94f3-7d9a59a03aff";
 
       // UI feedback
       thisForm.querySelector('.loading').classList.add('d-block');
